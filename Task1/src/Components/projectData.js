@@ -20,7 +20,7 @@ export const ProjectData = [
     {
         name: "Recruit Me",
         desc: "RecruitMe is a platform for recruiters to provide jobs to candidates.",
-        link: "https://imabhishekumar.github.io/RecruitMe/",
+        link: "https://imabhishekumar.github.io/recruitMe/",
         img: recruit,
         tag: 'Job'
     }
