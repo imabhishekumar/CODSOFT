@@ -10,7 +10,6 @@ export default function Skills(){
                         <p>Frontend</p>
                     </div>
                     <div className="skills-section">
-                        {/* <div className="skills-list"> */}
                             {SkillsData.map((item) =>{
                                 return(
                                     <div className="skill-card">
@@ -23,7 +22,6 @@ export default function Skills(){
                                     </div>
                                 );
                             })}
-                        {/* </div> */}
                     </div>
                 </div>
             </div>

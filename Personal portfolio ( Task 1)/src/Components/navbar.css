@@ -1,6 +1,5 @@
 .brand-name {
     transition: all 0.5s;
-    /* -webkit-text-stroke: 4px #d6f4f4; */
     font-variation-settings: "wght" 300, "ital" 0;
     font-size: 3vw;
     text-align: center;
@@ -23,7 +22,6 @@
   
   .navbar{
     display: flex;
-    /* background-color: aqua; */
     justify-content: space-between;
     padding:30px 10%;
     align-items: center;
@@ -41,16 +39,8 @@
     padding:22px 10%;
   }
   
-  /* .brand-name{
-    font-family: 'Teko', sans-serif;
-    font-size: 3vw;
-  } */
   
   .nav-link{
-    /* display: flex;
-    font-size: 1.3vw;
-    ; */
-    /* align-items: center; */
   
     display: flex;
     align-items: center;
@@ -73,13 +63,6 @@
     text-decoration: none;
     color: #000;
   }
-  /* padding:10px;
-    margin-right: 10px; */
-  
-  /* .nav-link > p:hover{
-    border-bottom: 1px solid #e601c0;
-    transition-duration: 900ms;
-  } */
   
   .nav-link p:after {
     content: "";

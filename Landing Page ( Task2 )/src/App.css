@@ -2,7 +2,6 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  /* overflow-x: hidden; */
 }
 
 body{
@@ -73,21 +72,11 @@ p{
 }
 
 #appointment:hover{
-  /* color: #fff;
-  background-color: #f36b21;
-  transition-duration: 400ms;
-  transition-timing-function: linear; */
   background-color: #000;
   transition-duration: 600ms;
   transition-timing-function: ease-in-out;
 }
 
-/* #appointment:hover > div:not(span){
-  color:#000;
-  background-color: #fff;
-  transition-duration: 400ms;
-  transition-timing-function: linear;
-} */
 
 #appointment span{
   padding: 0px 30px;
@@ -118,23 +107,12 @@ p{
 #home > img{
   max-width: 100%;
   max-height: 100%;
-  /* transform:  translateX(50px) translateY(-40px);  */
-  /* border-radius: 11% 49% 27% 11% / 15% 0% 57% 17%;
-   */
-   /* border-radius: 55% 19% 29% 19% / 35% 25% 25% 15%;
-   border-left: 30px solid #e37954; */
 }
 
 .home-container{
-  /* position: absolute; */
   background-color:  #fb8459 ;
   padding-bottom: 150px;
 }
-
-/* .row > *{
-  padding-right: 0px;
-} */
-
 .intro{
   position: absolute;
   top:350px;
@@ -353,7 +331,6 @@ color:#fff;
 /* Connect Us section  */
 
 .connect{
-  /* padding:60px; */
   padding:100px;
   background-color: #f7f7f7;
 }

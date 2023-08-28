@@ -6,12 +6,6 @@ import mail from '../assets/mail.jpg'
 export default function Resume(){
     return(
         <>
-            {/* <div className="contact">
-                <label className="skill-title">__Contact</label>
-                <a href={resume} download="Resume">
-                    <div className="resume-download">Download <FaFileDownload /></div>
-                </a>
-            </div> */}
 
             <div className="contact-wrapper magicpattern" id="contact">
                 <div className="contact-container">

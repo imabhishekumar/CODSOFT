@@ -11,31 +11,27 @@ export default [
         category: 'MANAGEMENT',
         title: 'HR Consulting',
         content: 'Transforming Workforce Excellence: Your HR Consulting Partner for Success. Helped a lot of students till now.',
-        imgUrl: service2,
-        // icon: [<FaGithub />]
+        imgUrl: service2
     },
     {
         id: 2,
         category: 'PLANNING',
         title: 'Improving Resource',
         content: 'we are dedicated to revolutionizing the way you access resources and support throughout your job search and career development journey',
-        imgUrl: service1,
-        // icon: [<FaGithub />]
+        imgUrl: service1
     },
     {
         id: 3,
         category: 'MOTIVATION',
         title: 'Employee Training',
         content: 'Welcome to our cutting-edge employee training service at RecruitMe. Makes everything possible. ',
-        imgUrl: service3,
-        // icon: [<FaGithub />]
+        imgUrl: service3
     },
     {
         id: 4,
         category: 'CUNSULTING',
         title: 'Leadership Training',
         content: 'LeaderShip Training Service, a cutting-edge offering brought to you by our dynamic recruitment startup! ',
-        imgUrl: service4,
-        // icon: [<FaGithub />]
+        imgUrl: service4
     },
 ]

@@ -5,14 +5,6 @@ import './App.css'
 
 function App() {
 
-  // constructor(props) {
-  //   super(props);
-  //   this.state = {
-  //     result: "0",
-  //   }
-  //   this.handleclicks = this.handleclicks.bind(this);
-  // }
-
   const [result, setResult] = useState('0')
 
   function handleclicks(value) {

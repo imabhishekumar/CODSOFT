@@ -6,9 +6,6 @@
 }
 
 
-/* a{
-    text-decoration: none;
-} */
 
 .contact-container{
     display: flex;
@@ -17,7 +14,6 @@
     border-radius: 20px;
 }
 
-/* #01747E */
 
 .contact-image{
     width:50%;
